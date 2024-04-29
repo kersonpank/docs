@@ -4,7 +4,10 @@ You can configure a webhook to receive all events that occur in your CRM
 
 Webhooks examples:
 
-## Deal created
+<details>
+
+<summary>Deal created</summary>
+
 ```json
 {
   "event": "deal_created",
@@ -98,3 +101,8 @@ Webhooks examples:
   }
 }
 ```
+
+
+</details>
+
+

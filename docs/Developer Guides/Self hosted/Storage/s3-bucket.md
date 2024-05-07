@@ -31,8 +31,6 @@ To make CORS configuration changes on S3:
 3. Scroll to Cross-origin resource sharing (CORS) and click on `Edit` and add the respective changes shown below.
 
 
-Add your Chatwoot URL to the `AllowedOrigin` as shown below.
-
 ```
 [
   {

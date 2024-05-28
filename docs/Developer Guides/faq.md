@@ -27,7 +27,11 @@ Woofed is in beta so updates are constantly, you can check the latest in the Git
 
 Or on Dockerhub at: https://hub.docker.com/r/douglara/woofedcrm/tags
 
+### How do I change language?
 
+You can update default language with environment variable `LANGUAGE`
+Follow the languages available:
+https://docs.woofedcrm.com/docs/Developer%20Guides/Self%20hosted/environment-variables
 
 
 
